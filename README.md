@@ -1,8 +1,8 @@
-# 🍔 Food Delivery Dashboard – Power BI Project
+# 🍔 Food Delivery Analytics Dashboard – Power BI Project
 
 ## 📌 Project Overview
 
-The **Food Delivery Dashboard** is an end-to-end **Power BI analytics project** designed to analyze food delivery operations, customer behavior, restaurant performance, and delivery efficiency.
+The **Food Delivery Analytics Dashboard** is an end-to-end **Power BI analytics project** designed to analyze food delivery operations, customer behavior, restaurant performance, and delivery efficiency.
 
 This project demonstrates **data cleaning, data modeling, DAX calculations, and interactive dashboard creation** to generate meaningful business insights for a food delivery platform.
 
@@ -285,7 +285,7 @@ Food-Delivery-Dashboard
 │   └── food_delivery_data.csv
 │
 ├── dashboard
-│   └── Food_Delivery_Dashboard.pbix
+│   └── Food_Delivery_Analytics_Dashboard.pbix
 │
 └── README.md
 ```
